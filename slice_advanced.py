@@ -1,6 +1,6 @@
 def slice_advanced():
     
-    texto = input()
+    texto = input("escribir texto: ")
     print (texto[4:len(texto):2])
 
     # Código a implementar utilizando input.
