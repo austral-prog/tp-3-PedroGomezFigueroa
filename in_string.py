@@ -1,5 +1,5 @@
 def check_vowels():
-    nombre = input("escriba su nombre:")
+    nombre = input()
     a = ("a")
     e = ("e")
     i = ("i")
