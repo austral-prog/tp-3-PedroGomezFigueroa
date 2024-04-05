@@ -5,11 +5,11 @@ def check_vowels():
     i = ("i")
     o = ("o")
     u = ("u")
-    print ("contiene a es:",(a in nombre))
-    print ("contiene e es:",(e in nombre))
-    print ("contiene i es:",(i in nombre))
-    print ("contiene o es:",(o in nombre))
-    print ("contiene u es:",(u in nombre))
+    print ("contiene a:",(a in nombre))
+    print ("contiene e:",(e in nombre))
+    print ("contiene i:",(i in nombre))
+    print ("contiene o:",(o in nombre))
+    print ("contiene u:",(u in nombre))
     # Código a implementar utilizando input.
 
 
